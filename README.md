@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel Alvise<br>🚀 Áreas de atuação:<br><br>ㅤDesenvolvimento web<br>ㅤAutomação e scripts em Python<br>ㅤBanco de dados SQL<br>🌱 Atualmente, estou aprimorando minhas habilidades e criando soluções que fazem a diferença.<br>🎯 Sempre em busca de novos desafios e oportunidades para aprender e crescer.</p>
+<p align="left">Meu nome é Gabriel Alvise<br>🚀 Áreas de atuação:<br><br>ㅤㅤDesenvolvimento web<br>ㅤㅤAutomação e scripts em Python<br>ㅤㅤBanco de dados SQL<br>🌱 Atualmente, estou aprimorando minhas habilidades e criando soluções que fazem a diferença.<br>🎯 Sempre em busca de novos desafios e oportunidades para aprender e crescer.</p>
 
 ###
 
