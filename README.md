@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel Alvise<br>🚀  Areas of Expertise:<ul><li>Web Development</li><li>Automation and Python Scripts</li><li>SQL Databases</li></ul>🌱 Currently, I’m honing my skills and creating solutions that make a difference.<br>🎯 Always seeking new challenges and opportunities to learn and grow.</p>
+<p align="left">Meu nome é Gabriel Alvise<br>💻 Jovem desenvolvedor com paixão por tecnologia e inovação!<br>🚀 Áreas de atuação:<br><br>     Desenvolvimento web<br>     Automação e scripts em Python<br>     Banco de dados SQL<br>🌱 Atualmente, estou aprimorando minhas habilidades e criando soluções que fazem a diferença.<br>🎯 Sempre em busca de novos desafios e oportunidades para aprender e crescer.</p>
 
 ###
 
@@ -45,9 +45,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <a href="https://www.instagram.com/gabrielalvise_/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="schenorberger123@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/gabrielalvise_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-alvise" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
